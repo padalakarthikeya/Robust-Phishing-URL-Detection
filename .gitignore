@@ -29,7 +29,6 @@ wheels/
 *.egg
 
 # Data files (keep directory via .gitkeep, ignore large datasets)
-data/*.csv
 data/*.zip
 data/*.tar.gz
 
